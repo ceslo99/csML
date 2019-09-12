@@ -6,7 +6,6 @@ Machine Learning class labs.
 
 Lab 1
 * Familirized with numpy and manipulate arrays.
-* 
 
 Lab 2
 
